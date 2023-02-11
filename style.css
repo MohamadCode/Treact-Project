@@ -17,3 +17,26 @@ html,body
     overflow-x: hidden; 
     font-family: 'Roboto', sans-serif;
 }
+
+nav {
+  display: flex;
+  height: 100%;
+}
+
+.nav__container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+}
+
+
+li {
+  list-style-type: none;
+}
