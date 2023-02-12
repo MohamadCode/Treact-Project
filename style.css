@@ -27,14 +27,24 @@ nav {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
+  padding: 0 24px;
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
+.nav__links {
+  display: flex;
+}
+
+.nav__link {
+  margin-left: 16px;
+}
+
 .logo {
   width: 40px;
 }
+
 
 
 li {
