@@ -24,9 +24,7 @@ html,body
 }
 
 nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+ 
 }
 
 .nav__container {
@@ -36,29 +34,20 @@ nav {
   padding: 0 24px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 
 .nav__links  {
-  margin-right: 0;
-  display: inline-block;
-  margin-left: 20px;
-}
-
-.log {
-  font-size: 20px;
   
 }
 
+
+
 .nav__link {
-  margin-left: 34px;
+  margin: 0 34px;
   font-size: 20px;
 }
 
-.nav__log {
-  margin-left: 24px;
-  font-size: 20px;
-}
+
 
 .logo {
   width: 40px;
@@ -68,6 +57,9 @@ a {
   text-decoration: none;
 }
 
+ul {
+  display: flex;
+}
 
 li {
   list-style-type: none;
