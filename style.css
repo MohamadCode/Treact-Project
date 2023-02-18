@@ -39,8 +39,10 @@ nav {
   align-items: center;
 }
 
-.nav__links {
-  display: flex;
+.nav__links li {
+  margin-right: 0;
+  display: inline-block;
+  margin-left: 20px;
 }
 
 .log {
