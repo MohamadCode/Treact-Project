@@ -18,9 +18,15 @@ html,body
     font-family: 'Roboto', sans-serif;
 }
 
+#landing {
+  width: 100vw;
+  max-width: 100%;
+}
+
 nav {
   display: flex;
-  height: 100%;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .nav__container {
