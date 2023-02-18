@@ -47,6 +47,11 @@ nav {
   font-size: 20px;
 }
 
+.nav__log {
+  margin-left: 24px;
+  font-size: 20px;
+}
+
 .logo {
   width: 40px;
 }
@@ -59,3 +64,4 @@ a {
 li {
   list-style-type: none;
 }
+
