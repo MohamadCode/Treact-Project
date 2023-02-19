@@ -44,16 +44,24 @@ nav {
 .nav__link {
   margin: 0 34px;
   font-size: 20px;
+  color: rgb(36, 62, 99);
 }
 
 .nav__link--log {
   margin: 0 24px;
   font-size: 20px;
+  color: rgb(36, 62, 99);
+
 }
 
+.text__logo {
+  font-size: 24px;
+  
+}
 
 .logo {
   width: 40px;
+  
 }
 
 a {
