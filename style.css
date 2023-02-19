@@ -53,6 +53,11 @@ nav {
   font-size: 20px;
   color: rgb(36, 62, 99);
 
+
+}
+
+.bord__sign {
+  border: solid 2px;
 }
 
 .text__logo {
