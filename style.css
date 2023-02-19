@@ -40,16 +40,16 @@ nav {
   
 }
 
-.log {
-  color: red;
-  margin-left: ;
-}
 
 .nav__link {
   margin: 0 34px;
   font-size: 20px;
 }
 
+.nav__link--log {
+  margin: 0 24px;
+  font-size: 20px;
+}
 
 
 .logo {
