@@ -21,10 +21,11 @@ html,body
 #landing {
   width: 100vw;
   max-width: 100%;
+  
 }
 
 nav {
- 
+
 }
 
 .nav__container {
@@ -36,6 +37,8 @@ nav {
   justify-content: space-between;
   
 }
+
+
 
 .nav__links  {
   
