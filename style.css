@@ -65,8 +65,7 @@ nav {
   font-size: 25px;
   border-radius: 99px;
   border: none;
-  padding: 12px 32px;
-
+  padding: 12px 36px;
 }
 
 
@@ -92,6 +91,8 @@ ul {
 }
 
 li {
+  display: flex;
+  align-items: center;
   list-style-type: none;
 }
 
