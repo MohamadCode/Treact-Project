@@ -109,7 +109,7 @@ li {
 
 
 .header__container {
-  
+
 }
 
 
@@ -117,4 +117,16 @@ li {
 width: 100%;
 max-width: 1200px;
 margin: 0 auto;
+}
+
+.purple {
+  color:  rgb(100, 21, 255);
+}
+
+
+
+
+p {
+  color: rgb(36, 62, 99);
+
 }
