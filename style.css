@@ -130,3 +130,11 @@ p {
   color: rgb(36, 62, 99);
 
 }
+
+
+
+.customers {
+  color: rgb(160, 174, 192);
+  font-weight: 700;
+  text-transform: uppercase;
+}
