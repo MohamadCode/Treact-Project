@@ -109,7 +109,8 @@ li {
 
 
 .header__container {
-
+  display: flex;
+  flex-direction: row;
 }
 
 
@@ -139,6 +140,11 @@ p {
 
 }
 
+.truested {
+ 
+  margin-top: 80px;
+  
+}
 
 
 .customers {
@@ -147,3 +153,13 @@ p {
   text-transform: uppercase;
 }
 
+.customer__logo {
+  
+}
+
+
+
+
+.desk__container {
+  width: 60%;
+}
