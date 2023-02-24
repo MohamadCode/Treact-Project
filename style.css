@@ -106,7 +106,10 @@ li {
   list-style-type: none;
 }
 
-
+img {
+  max-width: 100%;
+  height: auto;
+}
 
 .header__container {
 
@@ -118,6 +121,7 @@ width: 100%;
 max-width: 1200px;
 margin: 0 auto;
 display: flex;
+
 }
 
 
@@ -126,6 +130,7 @@ display: flex;
   display: flex;
   flex-direction: column;
   padding: 18px 40px;
+  
 }
 
 .purple {
@@ -143,22 +148,30 @@ p {
 }
 
 .truested {
- 
-  margin-top: 80px;
+display: flex;
+flex-direction: column;
+
+margin-top: 80px;
   
 }
 
 
 .customers {
   color: rgb(160, 174, 192);
+  font-size: 12px;
+
   font-weight: 700;
   text-transform: uppercase;
   margin-bottom: 30px;
+  letter-spacing: 0.8px;
 }
 
 .customer__logo {
-  
-  
+  margin-top: 16px;
+  width: 100%;
+  opacity: 0.5;
+  padding-right: 128px;
+  max-width: 400px;
 }
 
 
@@ -167,14 +180,12 @@ p {
 .desk__container {
   width: 100%;
   max-width: 600px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+
 }
 
 
 .desk__logo {
-  width: 100%;
+  width: 150%;
   max-width: 1200px;
 
 
