@@ -148,8 +148,7 @@ p {
 }
 
 .truested {
-display: flex;
-flex-direction: column;
+
 
 margin-top: 80px;
   
@@ -162,7 +161,7 @@ margin-top: 80px;
 
   font-weight: 700;
   text-transform: uppercase;
-  margin-bottom: 30px;
+  
   letter-spacing: 0.8px;
 }
 
@@ -170,23 +169,20 @@ margin-top: 80px;
   margin-top: 16px;
   width: 100%;
   opacity: 0.5;
-  padding-right: 128px;
-  max-width: 400px;
+  padding-right: 200px;
 }
 
 
 
 
-.desk__container {
-  width: 100%;
-  max-width: 600px;
-
+.desk__contaienr {
+  max-width: 100%;
+  align-self: flex-end;
 }
 
 
 .desk__logo {
-  width: 150%;
-  max-width: 1200px;
-
+  max-width: 100%;
+  height: auto;
 
 }
