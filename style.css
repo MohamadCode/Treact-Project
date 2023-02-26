@@ -117,28 +117,23 @@ img {
 
 
 .row {
-width: 100%;
-max-width: 1200px;
-margin: 0 auto;
 display: flex;
-
+justify-content: center;
+align-items: center;
 }
 
 
 .intro {
-  width: 40%;
-  display: flex;
-  flex-direction: column;
-  padding: 18px 40px;
   
+}
+
+.about__text {
+  font-size: 48px;
+  text-align: left;
 }
 
 .purple {
   color:  rgb(100, 21, 255);
-}
-
-h1 {
-  padding: 18px 20px;
 }
 
 
@@ -182,7 +177,6 @@ margin-top: 80px;
 
 
 .desk__logo {
-  max-width: 100%;
-  height: auto;
+ width: 60%;
 
 }
