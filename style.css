@@ -137,9 +137,20 @@ padding: 0 40px;
   color:  rgb(100, 21, 255);
 }
 
-
-p {
+p { 
   color: rgb(36, 62, 99);
 
 }
 
+.about__us--disc {
+  color: rgb(36, 62, 99);
+  font-size: 18px;
+  margin: 32px 0;
+  line-height: inherit;
+
+}
+
+.desk__logo {
+  max-width: 100%;
+  align-self: flex-end;
+}
