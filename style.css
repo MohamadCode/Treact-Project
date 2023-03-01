@@ -185,4 +185,18 @@ button {
 
 }
 
+.about__email input {
+  width: 100%;
+  padding: 22px 192px 22px 32px;
+  border-radius: 50px;
+  font-size: 100%;
+  font-weight: 500;
+  border: 2px solid #e5e7eb;
+transition-property: border-color;
+  transition-duration: 300ms;
+  transition-timing-function: ease;
+
+
+}
+
 
