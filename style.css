@@ -168,3 +168,15 @@ button {
 }
 
 
+
+.about__email {
+  display: flex;
+  justify-content: space-between;
+  max-width: 448px;
+  margin-left: 0;
+  margin-right: 0;
+  position: relative;
+  text-align: center;
+}
+
+
