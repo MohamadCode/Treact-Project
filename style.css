@@ -192,11 +192,22 @@ button {
   font-size: 100%;
   font-weight: 500;
   border: 2px solid #e5e7eb;
-transition-property: border-color;
+  transition-property: border-color;
   transition-duration: 300ms;
   transition-timing-function: ease;
 
 
 }
 
+
+.about__email:focus {
+  outline: transparent solid 2px;
+  outline-offset: 2px;
+  border-color: #6415ff;
+}
+
+.about__email:hover {
+  border-color: rgb(160, 174, 192);
+
+}
 
