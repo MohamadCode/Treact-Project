@@ -271,3 +271,23 @@ button {
   opacity: 0.5;
   padding-right: 128px;
 }
+
+
+.features__text {
+display: flex;
+flex-direction: column;
+align-items: center; 
+}
+
+.features__text h5 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em
+  
+
+
+}
+
+.features__text h2 {
+  font-size: 48px;
+}
