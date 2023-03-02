@@ -242,5 +242,9 @@ button {
 
 
 .about__truested p {
-  
+  font-size: 12px;
+  letter-spacing: 0.8px;
+  font-weight: 700;
+  color: rgb(160, 174, 192);
 }
+
