@@ -115,17 +115,25 @@ img {
 
 }
 
-
 .row {
+width: 100%;
+max-width: 1200px;
+margin: 0 auto;
+}
+
+
+.row__about {
 display: flex;
 justify-content: center;
 align-items: center;
 padding: 40px 40px;
-
 }
 
+
+
+
 .about__right--column {
-  width: 41.6667%
+  width: 40%
 }
 
 
@@ -161,6 +169,7 @@ p {
   min-width: 0px;
   width: 100%;
   align-self: flex-end;
+  
 }
 
 
