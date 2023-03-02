@@ -248,3 +248,9 @@ button {
   color: rgb(160, 174, 192);
 }
 
+.about__truested img {
+  margin-top: 16px;
+  width: 100%;
+  opacity: 0.5;
+  padding-right: 128px;
+}
