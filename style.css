@@ -273,6 +273,11 @@ button {
 }
 
 
+.features__container {
+  padding: 80px 0;
+}
+
+
 .features__text {
 display: flex;
 flex-direction: column;
