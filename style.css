@@ -309,12 +309,16 @@ margin-bottom: 40px;
 
 
 
-.icon__container {
+.icon {
   display: flex;
   width: calc(100% / 3);
 }
 
+
 .text__container {
   display: flex;
   flex-direction: column;
+  
+
+
 }
