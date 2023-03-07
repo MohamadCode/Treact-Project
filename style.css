@@ -347,5 +347,11 @@ flex-shrink: 0;
 
 
 .descreption {
+  color: rgb(226, 232, 240);
+  --tw-text-opacity: 1;
+  color: rgb(124 139 161 / var(--tw-text-opacity));
+  line-height: 2;
+  font-size: 25px;
+  font-weight: 500;
   margin-top: 24px;
 }
