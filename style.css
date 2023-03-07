@@ -315,6 +315,19 @@ margin-bottom: 40px;
   width: calc(100% / 3);
 }
 
+.img__container {
+flex-shrink: 0;
+}
+.img__service {  
+  border: solid rgb(226, 232, 240);
+  border-width: 1px;
+  border-radius: 9999px;
+  padding: 20px;
+
+
+}
+
+
 
 .text__container {
   display: flex;
@@ -330,4 +343,9 @@ margin-bottom: 40px;
   font-weight: 700;
   line-height: 1;
   letter-spacing: 0.4px;
+}
+
+
+.descreption {
+  margin-top: 24px;
 }
