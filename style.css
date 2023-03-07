@@ -311,6 +311,7 @@ margin-bottom: 40px;
 
 .icon {
   display: flex;
+  flex-direction: row;
   width: calc(100% / 3);
 }
 
@@ -318,7 +319,7 @@ margin-bottom: 40px;
 .text__container {
   display: flex;
   flex-direction: column;
-  
-
+  margin-left: 16px;
+  margin-top: 8px;
 
 }
