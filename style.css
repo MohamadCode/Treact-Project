@@ -318,6 +318,7 @@ margin-bottom: 40px;
 .img__container {
 flex-shrink: 0;
 }
+
 .img__service {  
   border: solid rgb(226, 232, 240);
   border-width: 1px;
@@ -334,7 +335,7 @@ flex-shrink: 0;
   flex-direction: column;
   margin-left: 16px;
   margin-top: 8px;
-
+  
 }
 
 
