@@ -305,6 +305,7 @@ margin-bottom: 40px;
 .services {
   display: flex;
   flex-wrap: wrap;
+  padding: 0 69px;
 }
 
 
@@ -313,6 +314,7 @@ margin-bottom: 40px;
   display: flex;
   flex-direction: row;
   width: calc(100% / 3);
+  
 }
 
 .img__container {
