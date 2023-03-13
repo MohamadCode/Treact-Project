@@ -371,3 +371,13 @@ flex-shrink: 0;
   --tw-text-opacity: 1;
     color: rgb(100 21 255 / var(--tw-text-opacity));
 }
+
+
+
+.quality__main--text {
+  color: rgb(36, 62, 99);
+  font-size: 48px;
+  font-weight: 900;
+  letter-spacing: 0.4px;
+  line-height: 1.25;
+}
