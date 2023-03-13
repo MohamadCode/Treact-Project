@@ -360,3 +360,14 @@ flex-shrink: 0;
   margin-top: 24px;
   padding-right: 24px;
 }
+
+
+
+.q__work {
+  color: #6415ff;
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+  --tw-text-opacity: 1;
+    color: rgb(100 21 255 / var(--tw-text-opacity));
+}
