@@ -370,12 +370,18 @@ flex-shrink: 0;
 
 .quality__container {
   display: flex;
-  flex-direction: row;
   padding: 80px 90px;
 }
 
+.quality__img--container {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+}
+
 .quality__text--container {
-  
+  display: flex;
+  flex-direction: row;
   width: 50%;
   
 }
