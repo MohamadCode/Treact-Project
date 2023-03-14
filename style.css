@@ -413,5 +413,16 @@ flex-shrink: 0;
   transition-property: border-color;
   transition-duration: 300ms;
   transition-timing-function: ease;
-g
+  transition: all 300ms ease;
+
+}
+
+.learn__more:hover {
+  border-color: rgb(160, 174, 192);
+}
+
+.learn__more:focus {
+  outline: transparent solid 2px;
+  outline-offset: 2px;
+  border-color: #6415ff;
 }
