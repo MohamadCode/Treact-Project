@@ -384,8 +384,7 @@ flex-shrink: 0;
 }
 
 .quality__img--container  {
-  max-width: 50%;
-  width: 50%;
+  max-width: 100%;
   
 }
 
