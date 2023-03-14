@@ -375,11 +375,18 @@ flex-shrink: 0;
   padding: 80px 90px;
 }
 
-.quality__img--container {
-  width: 50%;
+.row__quality {
   display: flex;
+  flex-direction: row-reverse;
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.quality__img--container  {
+  max-width: 50%;
+  width: 50%;
   
-  flex-direction: row;
 }
 
 .quality__text--container {
