@@ -409,4 +409,9 @@ flex-shrink: 0;
   font-size: 14px;
   cursor: pointer;
   display: inline-block;
+  border: 2px solid #e5e7eb;
+  transition-property: border-color;
+  transition-duration: 300ms;
+  transition-timing-function: ease;
+g
 }
