@@ -369,7 +369,15 @@ flex-shrink: 0;
 }
 
 .quality__container {
+  display: flex;
+  flex-direction: row;
   padding: 80px 90px;
+}
+
+.quality__text--container {
+  
+  width: 50%;
+  
 }
 
 
