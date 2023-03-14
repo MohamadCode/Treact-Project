@@ -368,6 +368,9 @@ flex-shrink: 0;
   padding-right: 24px;
 }
 
+.quality__container {
+  padding: 80px 90px;
+}
 
 
 .q__work {
@@ -426,3 +429,4 @@ flex-shrink: 0;
   outline-offset: 2px;
   border-color: #6415ff;
 }
+
