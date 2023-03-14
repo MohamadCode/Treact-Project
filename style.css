@@ -30,7 +30,7 @@ nav {
 
 .nav__container {
   width: 100%;
-  max-width: 1500px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 0 24px;
   display: flex;
@@ -127,6 +127,8 @@ display: flex;
 justify-content: center;
 align-items: center;
 padding: 40px 40px;
+max-width: 1200px;
+margin: auto;
 }
 
 
@@ -274,6 +276,8 @@ button {
 
 
 .features__container {
+  max-width: 1200px;
+  margin: auto;
   padding: 90px 80px;
 }
 
