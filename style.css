@@ -376,6 +376,8 @@ flex-shrink: 0;
 
 .quality__container {
   display: flex;
+  max-width: 1200px;
+  margin: auto;gi
   padding: 80px 90px;
 }
 
