@@ -394,6 +394,10 @@ flex-shrink: 0;
   
 }
 
+.landing__img {
+  
+}
+
 .quality__text--container {
   display: flex;
   flex-wrap: wrap;
