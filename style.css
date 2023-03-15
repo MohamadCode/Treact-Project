@@ -383,7 +383,7 @@ flex-shrink: 0;
 
 .row__quality {
   display: flex;
-  flex-direction: row-reverse;
+  flex-direction: row;
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
@@ -395,7 +395,7 @@ flex-shrink: 0;
 }
 
 .landing__img {
-  
+  max-width: 600px;
 }
 
 .quality__text--container {
