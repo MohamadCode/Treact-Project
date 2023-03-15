@@ -390,6 +390,7 @@ flex-shrink: 0;
 }
 
 .quality__img--container  {
+  display: block;
   max-width: 100%;
   
 }
